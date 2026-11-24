@@ -1,0 +1,21 @@
+# Environment variables / secrets
+.env
+backend/.env
+
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# SQLite database
+*.db
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+# Pytest
+.pytest_cache/
+backend/.pytest_cache/
