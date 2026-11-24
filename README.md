@@ -8,11 +8,11 @@ The application supports multi-turn conversations, automatic API-key failover, r
 
 ## 1. Live URLs
 
-Frontend: To be added after deployment
+Frontend: https://lyftr-ai-frontend-c40u.onrender.com
 
-Backend: To be added after deployment
+Backend: https://lyftr-ai-backend-96n2.onrender.com
 
-API Documentation: To be added after deployment
+API Documentation: https://lyftr-ai-backend-96n2.onrender.com/docs
 
 ---
 
